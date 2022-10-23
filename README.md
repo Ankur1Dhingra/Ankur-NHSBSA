@@ -3,7 +3,7 @@
 #### <sub>- Maven (Any version), set the Maven home path and confirm this configuration by executing 'mvn -v' in the command prompt</sub>
 
 # Description : 
-#### <sub>This UI automation framework is intended to automate various test sceanrios that cover permutations of the patient choices in order to check the eligibility for the health coverage. The test simulate the options made by the user and tally the result against the expected test data. With the cucumber library, it becomes easy to go through the business scenarios and verify the outcome for the given sets of input data. </sub>
+#### <sub>This UI automation framework is intended to automate various test scenarios that cover permutations of the patient choices in order to check the eligibility for the health coverage. The test simulate the options made by the user and tally the result against the expected test data. With the cucumber library, it becomes easy to go through the business scenarios and verify the outcome for the given sets of input data. </sub>
   
 # UI Automation for the NHS Cost Checker Tool
 #### <sub>An Automated Solution that validates user get a result of whether he/she can get help or not with their NHS costs.</sub>
