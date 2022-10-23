@@ -19,9 +19,9 @@
 #### <sub>3. Run the command : git clone https://github.com/Ankur1Dhingra/Ankur-NHSBSA</sub>
 #### <sub>4. After cloning the project successfully in the local, then navigate to project folder/dir where pom.xml is present and open cmd and Run the command : mvn clean verify</sub>
 #### <sub>5. You can see the different reports under the folder : </sub>
-####<sub>      a. target -> cucumber-JVM-reports ->cucumber-html-reports -> feature-overview.html</sub>
+#### <sub>     a. target -> cucumber-JVM-reports ->cucumber-html-reports -> feature-overview.html</sub>
 #### <sub>     b. target -> cucumber-JVM-reports ->cucumber-html-reports -> file-src-test-resources-Features-cost-feature.html</sub>
-#### <sub>     b. SparkReports -> sparkreport.html</sub>
+#### <sub>     c. SparkReports -> sparkreport.html</sub>
 
 #### **Make sure maven home is set correctly and mvn command is executed from correct project dir having pom.xml.(where you import your project)
 
