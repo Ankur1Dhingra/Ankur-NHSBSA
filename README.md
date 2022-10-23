@@ -1,7 +1,6 @@
 # Pre-requisites:
-#### <sub>- Java JDK 1.8 or above</sub>
-#### <sub>- Maven (Any version)</sub>
-#### <sub>- Set the Maven home path(Check the maven version while executing "mvn -v" in the cmd)</sub>
+#### <sub>- Java JDK 1.8 or above, verify this installation executing 'java -version' in the command prompt</sub>
+#### <sub>- Maven (Any version), set the Maven home path and confirm this configuration by executing 'mvn -v' in the command prompt</sub>
 
 # Description : 
 #### <sub>This UI automation framework is intended to automate various test sceanrios that cover permutations of the patient choices in order to check the eligibility for the health coverage. The test simulate the options made by the user and tally the result against the expected test data. With the cucumber library, it becomes easy to go through the business scenarios and verify the outcome for the given sets of input data. </sub>
